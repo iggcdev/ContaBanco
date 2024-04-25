@@ -22,4 +22,17 @@ Esse projeto é a resolução de um [desafio](https://github.com/digitalinnovati
 - Exibe uma mensagem de boas-vindas com os dados fornecidos pelo usuário.
 
 ## Exemplo de Uso
+    Por favor, digite o número da Agência:
+    1021
+    Por favor, digite o número da Conta:
+    123456
+    Por favor, digite o seu nome:
+    João da Silva
+    Por favor, digite o saldo inicial:
+    5000.0
+
+### Após inserir os dados acima, a mensagem a seguir será exibida:
+
+    Olá João da Silva, obrigado por criar uma conta em nosso banco, sua agência é 1021, conta 123456 e seu saldo 5000.0 já está disponível para saque.
+
 
